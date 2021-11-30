@@ -1,5 +1,23 @@
 # Build a Job Board with Python & Flask
 
+terminal
+got to brew.sh and install brew
+
+to verify
+>brew doctor 
+>brew install python
+verify
+>python3 -V
+>pip3 -V
+
+for generic add this to patch
+
+>export PATH="/usr/local/opt/python/libexec/bin:$PATH" >> /.zshrc
+
+verify
+>python -V
+>pip -V
+
 ## Verify Local Environment
 
 ### Create Virtual Environment
